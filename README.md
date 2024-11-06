@@ -53,4 +53,4 @@ The project is a work in progress and is not yet complete.
    - my local host link was taking me to a different port without my knowledge - something like 127.001.3000 rather than localhost:3000, so although my deployment was smooth, it took a moment to notice why I wasn't seeing the app in my local host
 
 - [x] Fix page titles on post pages to match the post title
-- [x] Add error and found found pages
+- [x] Handle the error when you click to vote while not logged in to show a nice error message
