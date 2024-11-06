@@ -1,8 +1,7 @@
 "use client";
-//my error page has to be a client component
 import Link from "next/link";
 
-export default function GlobalError({ error, reset }) {
+export default function Error({ error, reset }) {
   return (
     <html>
       <body>
