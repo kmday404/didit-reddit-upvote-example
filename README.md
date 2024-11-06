@@ -46,3 +46,11 @@ The project is a work in progress and is not yet complete.
 - [ ] User following
 - [ ] User feed (posts from users you follow)
 - [ ] User flair
+
+## completed assignment steps
+
+1. followed set up instructions and deployed to vercel (including creating the tables in supabase)
+   - my local host link was taking me to a different port without my knowledge - something like 127.001.3000 rather than localhost:3000, so although my deployment was smooth, it took a moment to notice why I wasn't seeing the app in my local host
+
+- [x] Fix page titles on post pages to match the post title
+- [x] Add error and found found pages
