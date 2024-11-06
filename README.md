@@ -54,3 +54,4 @@ The project is a work in progress and is not yet complete.
 
 - [x] Fix page titles on post pages to match the post title
 - [x] Handle the error when you click to vote while not logged in to show a nice error message
+- [x] Users cannot vote multiple times on the same post
